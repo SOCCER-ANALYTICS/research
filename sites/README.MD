@@ -16,6 +16,11 @@ https://footystats.org
 https://pt.mybets.eu
 
 
+### Prognósticos de Apostadores
+
+www.academiadasapostasbrasil.com
+
+
 ### Acompanhamento de Jogos em Tempo Real
 
 www.sportstats.com
