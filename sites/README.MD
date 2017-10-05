@@ -23,7 +23,7 @@ www.sportstats.com
 
 ### Escalação, Substituição e Estatística em Tempo Real
 
-data.unogoal.me/detail.aspx?id=<ID_GAME>
+http://data.unogoal.me/detail.aspx?id=<ID_GAME>
 
 
 ### Jogadores Europeus e seus Atributos
