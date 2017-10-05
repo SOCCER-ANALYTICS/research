@@ -15,6 +15,8 @@ https://footystats.org
 
 https://pt.mybets.eu
 
+http://www.football-data.co.uk/matches.php
+
 
 ### Prognósticos de Apostadores
 
