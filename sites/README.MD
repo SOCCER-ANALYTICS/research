@@ -17,7 +17,6 @@ https://pt.mybets.eu
 
 http://www.football-data.co.uk/matches.php
 
-
 ### Prognósticos de Apostadores
 
 www.academiadasapostasbrasil.com
@@ -37,6 +36,9 @@ http://data.unogoal.me/detail.aspx?id=<ID_GAME>
 
 https://sofifa.com
 
+https://pesstatsdatabase.com
+
+http://www.footballdatabase.eu
 
 ### APIs
 
