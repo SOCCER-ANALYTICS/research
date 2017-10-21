@@ -1,0 +1,23 @@
+Tema
+A onda de apostas esportivas movimenta cerca de R$ 4 bilhões apenas no Brasil. 
+Todo fã de futebol tem habito de passar horas com seus amigos fazendo prognósticos de resultados e usualmente fazendo isso apenas 
+por diversão. Outras milhares de  pessoas fazem de seus prognósticos apostas esportivas, muitas dessas pessoas fazendo dessa pratica 
+como profissão.
+Com o objetivo de maximizar os lucros, e mitigar os erros, algumas pessoas tentam automatizar o processo fazendo uso de machine learning. 
+Buscando o máximo de informações possíveis, históricas e em tempo real, a média de acerto desses algoritmos está entre 50% a 70%.
+Dessa forma, neste projeto iremos fazer uso da modalidade de monografia. Fazendo uso de machine learning...
+
+Problema
+Um apostador que faça o uso de machine learning, em cima de uma gama rica de dados estáticos históricos e em tempo real, 
+pode ter um resultado surpreendentemente superior aos demais?
+
+Objetivo
+Obter o máximo de dados estáticos possíveis, formando uma base dados rica o suficiente para uma aprendizagem de nível superior das já 
+construídas ate hoje.
+Construir crawlers, os quais serão reesposáveis pela coleta de dados históricos e em tempo real, utilização de algoritmos 
+de machine learning para construção de modelos prediditos que sejam eficazes o suficiente na predição de uma partida de futebol.
+
+Resultados Esperados
+Esperamos alcançar algo entre 55% à 75% de acerto nas predições, acima disso pretendemos ter uma base de dados rica o suficiente 
+para que possamos continuar com o projeto, ou até mesmo disponibilizar esses dados para outras pessoas. 
+
